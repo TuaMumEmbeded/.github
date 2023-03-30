@@ -122,4 +122,4 @@
 |              | `header.jsx`      | แสดงวันที่และเวลา                                                                     |
 |              | `patients.jsx`    | แสดง ชื่อ เพศ และ อายุ ของผู้ป่วย                                                     |
 
-#### **Video Presentation สามารถดูได้ที่ → in progress...**
+#### **Video Presentation สามารถดูได้ที่ → [youtu.be/Lt0JppcsTvc](https://youtu.be/Lt0JppcsTvc)
